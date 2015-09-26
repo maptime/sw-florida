@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /sw-florida
 permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeSWF
+  twitter: 
   #disqus: YOUR DISQUS USERNAME
