@@ -2,9 +2,9 @@ baseurl: /sw-florida
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: sw-florida
 github_org: maptime
 maptime:
   chapter: MaptimeSWF
-  twitter: 
+  twitter: MaptimeSWF
   #disqus: YOUR DISQUS USERNAME
